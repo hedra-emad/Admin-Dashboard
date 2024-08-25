@@ -1,0 +1,77 @@
+
+export const rows = [
+  {
+    id: 1,
+    name: "Ahmed",
+    email: "ahmed23@gmail.com",
+    age: "30",
+    phone: "+201212345678",
+    access: "Admin",
+  },
+  {
+    id: 2,
+    name: "Sara",
+    email: "sara92@gmail.com",
+    age: "28",
+    phone: "+201234567890",
+    access: "Admin",
+  },
+  {
+    id: 3,
+    name: "Mohamed",
+    email: "mohamed01@gmail.com",
+    age: "35",
+    phone: "+201298765432",
+    access: "Manager",
+  },
+  {
+    id: 4,
+    name: "Fatma",
+    email: "fatma83@gmail.com",
+    age: "27",
+    phone: "+201287654321",
+    access: "Manager",
+  },
+  {
+    id: 5,
+    name: "Ali",
+    email: "ali74@gmail.com",
+    age: "40",
+    phone: "+201276543210",
+    access: "Manager",
+  },
+  {
+    id: 6,
+    name: "Mona",
+    email: "mona55@gmail.com",
+    age: "33",
+    phone: "+201265432109",
+    access: "User",
+  },
+  {
+    id: 7,
+    name: "Youssef",
+    email: "youssef44@gmail.com",
+    age: "29",
+    phone: "+201254321098",
+    access: "User",
+  },
+  {
+    id: 8,
+    name: "Nadia",
+    email: "nadia67@gmail.com",
+    age: "32",
+    phone: "+201243210987",
+    access: "User",
+  },
+  {
+    id: 9,
+    name: "Khaled",
+    email: "khaled33@gmail.com",
+    age: "26",
+    phone: "+201232109876",
+    access: "User",
+  },
+];
+
+
